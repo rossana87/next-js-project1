@@ -8,7 +8,7 @@ export default function Navbar() {
         <Image 
           src={Logo}
           alt='Dojo Helpdesk Logo'
-          widht={70}
+          widht={80}
           quality={100} //this is the best quality
           placeholder='blur' //it creates a blury while the image loads
         />
